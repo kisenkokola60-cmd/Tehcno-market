@@ -1,0 +1,28 @@
+.football{
+    width:450px;
+}
+p{
+    font-size:30px;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size:40px;
+    color:rgb(255, 255, 255);
+}
+body{
+    text-align:center;
+    background-color:rgb(87, 123, 242);
+    color:rgb(45, 40, 40);
+}
+section{
+    width:80%;
+    background-color:rgba(255, 255, 255, 0.511);
+    margin:0 auto;
+    padding:20px;
+    border-radius:20px;
+    margin-bottom:45px;
+}
+footer{
+    background-color: #959191;
