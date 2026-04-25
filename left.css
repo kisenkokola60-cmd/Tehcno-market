@@ -1,0 +1,52 @@
+img{
+height:200px;
+}
+p{
+    font-size:20px;
+}
+.football{
+    background-color: rgb(160, 239, 178);
+    text-align:center;
+    border:6px solid rgb(0, 0, 0);
+    width:500px;
+    border-radius:25px;
+    margin-bottom:40px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.523);
+
+}
+body{
+    background-color: rgba(38, 120, 65, 0.473);
+    text-align:center;
+    color:rgb(11, 23, 93);
+    
+}
+p{
+ font-size:30px;
+}
+h1{
+    font-size:58px;
+     color:rgb(0, 0, 0);
+}
+div{
+    color:rgb(17, 44, 17);
+}
+.basket{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+
+    
+}
+section{
+    width:80%;
+    background-color:rgb(107, 102, 201);
+    margin:0 auto;
+    padding:30px;
+    border-radius:25px;
+    margin-bottom:50px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.523);
+
+    
+}
+ 
+ 
